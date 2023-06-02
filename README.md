@@ -23,6 +23,10 @@ Asi es como quedarian las tablas de nuestra BDD
 [![](/tablamaterias.PNG)]()
 [![](/tablanotas.PNG)]()
 
+### Matriz
+Los Casos de pruebas que se solicitaron y generaron.
+[![](/matriz.png)]()
+
 ### 💬 Testing
 Utilizando la herramienta JIRA asi quedaron nuestros testeos sobre algunos casos de prueba creados por nosotros.
 [![](/ciclesumary.PNG)]()
